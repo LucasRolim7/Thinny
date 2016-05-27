@@ -2,8 +2,7 @@
 layout: post
 title: "Hello, Cosette"
 quote: "Thinny reaches a new version, with mobile support and some other cool features."
-image:
-      cover_2.jpg
+image: lucasrolim7.github.io/assets/images/cover_2.jpg
 video: false
 comments: true
 ---
