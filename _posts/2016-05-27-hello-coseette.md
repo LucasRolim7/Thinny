@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Cosette"
+title: "First Post"
 quote: "Thinny reaches a new version, with mobile support and some other cool features."
 image:
       url: lucasrolim7.github.io/media/2014-02-27-hello-cosette/cover_2.jpg
