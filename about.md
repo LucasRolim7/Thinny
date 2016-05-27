@@ -2,7 +2,7 @@
 layout: page
 title: About the site, the author, and everything more.
 image:
-      url: /media/2014-02-27-hello-cosette/cover.jpg
+      lucasrolim7.github.io/assets/images/cover_2.jpg
 permalink: about/
 ---
 
