@@ -4,10 +4,6 @@ title: About the site, the author, the life, the universe and everything more.
 permalink: about/
 ---
 
-# Custom vars
-icon:             /assets/images/icon.png
-cover:            lucasrolim7.github.io/assets/images/cover_2.jpg
-
 <div class="message">
   This page will be ready soon! Meanwhile, stay with this beautiful latin text below.
 </div>
