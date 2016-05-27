@@ -11,7 +11,7 @@ theme_color: 302F2D
 
 #First Post test "[Lorem ipsum](http://www.lipsum.com/feed/html)"
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+##Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cover_2.jpg" width="100%" description="Chicago at Night" %}
 
