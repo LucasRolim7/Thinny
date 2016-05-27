@@ -1,8 +1,6 @@
 ---
 layout: page
 title: About the site, the author, and everything more.
-image:
-      lucasrolim7.github.io/assets/images/cover_2.jpg
 permalink: about/
 ---
 
