@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "First Post"
-quote: "Thinny reaches a new version, with mobile support and some other cool features."
+quote: "Architecture continually informs and is informed by its modes of representation and construction"
 image:
-      url: lucasrolim7.github.io/media/2014-02-27-hello-cosette/cover_2.jpg
+      url: /media/SCENE_4.jpg
 video: false
 comments: true
 ---
@@ -12,78 +12,42 @@ comments: true
 
 Generally speaking, [Digital Fabrication](https://www.opendesk.cc/about/digital-fabrication) is a term used to descibe processes of manufacturing in which the tools used are machines controlled by a commputer.
 
-{% include image.html url="/media/3d_printer.jpg" width="100%" description="The physical output correspond exactly to the digital model" %}
+The Digital Fabrication tools is a great trend in the Architecture field and has emerged in the last years as a revolution in the relation between design and manufacturing. The use of new technologies has allowed perhaps more than in any other period of history the change in the architecture and how building are constructed.
 
-This new version of Thinny comes with mobile support and some bugfixes.
+Although the change from analog to digital drawing was a dramatic shift in how the buildings are designed. It has not changed very much how they are built. Basically, this was only a change from one 2D way of drawing to another.
 
-## Usage
-
-### Main variables
-
-The global variables are set on the `_config.yml`[^1] file.
-
-To start, you need to change at least the variable `url` on the file.
-
-#### Social links
-
-To add a social link you just need to add the following code inside the variable `social`:
-
-~~~
-  - icon:   [the genericon name for the social network]
-    url:    [the url to follow]
-    desc:   [a small description for the link (e.g. "Follow me on twitter")]
-~~~
-
-#### Menu
-
-To add a menu item you just need to add the following code inside the variable `menu`:
-
-~~~
-  - title:  [title of the menu item]
-    url:    [the url to follow]
-~~~
-
-#### Others
-
-You'll find a lot of other variables inside the file, e.g.:
-
-- the site `title`, `description`, `icon` and default `cover` image.
-- text of the `copyright` message.
-- the number of posts per page (`paginate`).
-- the `permalink`'s structure (see [the docs](http://jekyllrb.com/docs/pagination/)).
+However, the use of Computer not only to draw, but to fabricate as well, has significantly augmented the possibilities to the designers. For the first time, the gap between what was designed and what as built has been reduced to a minimum value. Now, what you draw (or 3D model) is basically what you manufacture. And this has allowed not only more faithful prototypes, models and buildings, but also has stimulated architects to experiment new uses of these technologies, creating new forms and ways to manufacture that couldn’t be tried before. In the next posts I will show some examples of buildings and models that made use of these new possibilities.
 
 
-### Default YAML tags
+{% include image.html url="/media/3d_printer.jpg" width="100%" description="The physical output corresponds exactly to the digital model" %}
 
-- `layout:`<i>`post, page`</i> `or `<i>`fullscreen`</i>: defines the layout of the page.
-- `title: [string]`: title of the post.
-- `quote: [string]`: a small description of the post to be shown above the title.
-- `dark:`<i>`true`</i> `or `<i>`false`</i>: use black font (instead of white) for the header (default value is false).
-- `image: [url] or `<i>`false`</i>: a cover image for the post (default value is _false_).
-- `video:`<i>`true`</i> `or `<i>`false`</i>: add a cover video for the post (default value is _false_).
-- `video_mp4: [url]`: the URL for the mp4 video.
-- `video_webm: [url]`: the URL for the webm video.
-- `video_ogv: [url]`: the URL for the ogv video.
 
-## Versions
+## Common Terms:
 
-Here is a table with all Thinny's versions:
+Some terms are used constantly in the field of Digital Fabrication. Thus they will b recurrent in the next posts, so, to make easier to understand, I will post the definition of some of the most used terms, and if I feel that others needs to be better explained, I will make a dedicated post those explaining in detail them.
 
-|----
-| Version | Codename | Platform | Release date
-|:-:|:-:|:-:|:-:
-| [0.3](https://github.com/camporez/Thinny/releases/tag/v0.3-alexandra) | [Alexandra](http://nikita2010.wikia.com/wiki/Alexandra_Udinov) | Ghost 0.3.x |November 2013
-| [2.0](https://github.com/camporez/Thinny/releases/tag/v2.0-bianca) | [Bianca](http://memoriaglobo.globo.com/programas/entretenimento/novelas/caras-bocas/caras-bocas-bianca-isabelle-drummond.htm) | Jekyll | January 2014 |
-| [2.1](https://github.com/camporez/Thinny/releases/tag/v2.1-cosette) | [Cosette](http://lesmiserables.wikia.com/wiki/Cosette) | Jekyll | February 2014
-| 2.2 | [Dolores](http://en.wikipedia.org/wiki/Dolores_Haze) | Jekyll | _Soon..._[^2]
-|----
+- CAD/CAM: 
+      Stand for Camputer-Aided Design & Manufacturing, usally refers to softwares that are used for both drawing and manufacturing of a product or model.
 
-## Download
+- CNC Machine:
+      Computer Numerical Control (CNC) is one in which the functions and motions of a machine tool are controlled by means of a prepared program containing coded alphanumeric data.
 
-> Thinny 2.1 is already [available for download on GitHub](https://github.com/camporez/Thinny/releases).
 
------
-Want to see something else added or report a bug? [Open an issue](https://github.com/camporez/camporez.github.io/issues/new).
+{% include image.html url="/media/cnc.jpg" width="100%" description="CNC Machine" %}
 
-[^1]: This file is placed in your root directory. It's the main file of configuration. For more information, read [the docs](http://jekyllrb.com/docs/configuration/).
-[^2]: See the [issues list](https://github.com/camporez/camporez.github.io/issues?milestone=3).
+- 3D Printing:
+      a process for making a physical object from a three-dimensional digital model, typically by laying down many successive thin layers of a material.
+
+
+{% include image.html url="/media/3D-Printing-Trends.jpg" width="100%" description="3D Printing Machine" %}
+
+- Laser-Cutting:
+      a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications.
+
+
+{% include image.html url="/media/laser cutting.jpg" width="100%" description="Laser cutter machine" %}
+
+## Sources:
+
+To understand better the use of Digital Fabrication in Architecture, I am reading the book [_Digital Fabrication, Architectural and Material Technique_](http://atc.berkeley.edu/201/readings/Iwamoto_Digital_Fabrications.pdf), of Lisa Iwamoto, that explain in more detail the background of Digital Fabrciation Technologies and present us with some examples of architects that have explored those techniques.
+
