@@ -8,9 +8,9 @@ video: false
 comments: true
 ---
 
-#Thinny 2.1, codename "[Cosette](http://lesmiserables.wikia.com/wiki/Cosette)"
+A brief explanation of what is "[Digital Fabrication](https://www.opendesk.cc/about/digital-fabrication)" and some of its most used terms
 
-Cosette is the main character of the french novel _Les Misérables_, published in 1862 by _Victor Hugo_.
+Generally speaking, Digital Fabrication is a term used to descibe processes of manufacturing in which the tools used are machines controlled by a commputer.
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
