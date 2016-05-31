@@ -26,22 +26,22 @@ However, the use of Computer not only to draw, but to fabricate as well, has sig
 
 Some terms are used constantly in the field of Digital Fabrication. Thus they will b recurrent in the next posts, so, to make easier to understand, I will post the definition of some of the most used terms, and if I feel that others needs to be better explained, I will make a dedicated post those explaining in detail them.
 
-- *CAD/CAM:* 
+- **CAD/CAM:** 
       Stand for Camputer-Aided Design & Manufacturing, usally refers to softwares that are used for both drawing and manufacturing of a product or model.
 
-- *CNC Machine:*
+- **CNC Machine:**
       Computer Numerical Control (CNC) is one in which the functions and motions of a machine tool are controlled by means of a prepared program containing coded alphanumeric data.
 
 
 {% include image.html url="/media/cnc.jpg" width="100%" description="CNC Machine" %}
 
-- *3D Printing:*
+- **3D Printing:**
       a process for making a physical object from a three-dimensional digital model, typically by laying down many successive thin layers of a material.
 
 
 {% include image.html url="/media/3D-Printing-Trends.jpg" width="100%" description="3D Printing Machine" %}
 
-- *Laser-Cutting:*
+- **Laser-Cutting:**
       a technology that uses a laser to cut materials, and is typically used for industrial manufacturing applications.
 
 
