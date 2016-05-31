@@ -8,7 +8,7 @@ video: false
 comments: true
 ---
 
-A brief explanation of what is Digital Fabrication and some of its most used terms
+#A brief explanation of what is Digital Fabrication and some of its most used terms
 
 Generally speaking, Digital Fabrication is a term used to descibe processes of manufacturing in which the tools used are machines controlled by a commputer.
 
