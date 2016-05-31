@@ -8,9 +8,9 @@ video: false
 comments: true
 ---
 
-#A brief explanation of what is Digital Fabrication and some of its most used terms
+# A brief explanation of what is Digital Fabrication and some of its most used terms
 
-Generally speaking, Digital Fabrication is a term used to descibe processes of manufacturing in which the tools used are machines controlled by a commputer.
+Generally speaking, [Digital Fabrication](https://www.opendesk.cc/about/digital-fabrication) is a term used to descibe processes of manufacturing in which the tools used are machines controlled by a commputer.
 
 {% include image.html url="/media/2014-02-27-hello-cosette/cosette.jpg" width="100%" description="Amanda Seyfried as Cosette on the 2012 movie." %}
 
