@@ -3,7 +3,7 @@ layout: post
 title: "First Post"
 quote: "Architecture continually informs and is informed by its modes of representation and construction"
 image:
-      url: lucasrolim7.github.io/media/SCENE_4.jpg
+      url: media/SCENE_4.jpg
 video: false
 comments: true
 ---
