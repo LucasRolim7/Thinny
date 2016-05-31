@@ -3,7 +3,7 @@ layout: post
 title: "First Post"
 quote: "Architecture continually informs and is informed by its modes of representation and construction"
 image:
-      url: media/epcot bnw.jpg
+      url: media/epcot_bnw.jpg
 video: false
 comments: true
 ---
