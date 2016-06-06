@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research Topic"
-quote: "Architecture continually informs and is informed by its modes of representation and construction"
+quote: "We are called to be architects of the future, not its victims"
 image:
       url: /media/epcot_bnw.jpg
 video: false
