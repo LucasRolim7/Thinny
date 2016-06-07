@@ -18,7 +18,7 @@ The examples shown below are all related to dance and architecture, but could ea
 
 - Although this a more formal example, the Turning Torso by Santiago Calatrava show how the human body and physiology can be inspiration to architecture. In this case it captures a static moment of the body, but can also be applied to a body in movement.
 
-{% include image.html url="/media/4torso.jpg" width="100%" description="Physiologic relation between the Human body and Architecture" %}
+{% include image.html url="/media/4torso.jpg" width="100%" description="Relation between the Human body and Architecture" %}
 
 - Steven Holl argued that things such as dance, poetry and music can be inspirations to architecture as well as any other "traditional" inspirations, like the nature. In his sketches he presents his vision of how dance inspires architecture through its shape.
 
