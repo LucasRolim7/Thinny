@@ -44,5 +44,7 @@ Although it does not use the dots for capture, the Kinect uses the optical proce
 
 One very interesting source I found was in the [MIT communications forum website](http://web.mit.edu/comm-forum/papers/furniss.html) that explain better how the Motion Capture works and its use in different industries. Also it details the different techniques and its pros and cons. The video below also shows how the MoCap is used in the movie industry and it is a fun and interesting way to understand better this revolutionary technology.
 
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZnrKKjaVxCA" frameborder="0" allowfullscreen></iframe>
 
