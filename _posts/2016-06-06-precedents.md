@@ -30,7 +30,7 @@ The examples shown below are all related to dance and architecture, but could ea
 
 {% include image.html url="/media/dance_arch2.png" width="100%" description="How the brain perceives the dance and how it translates to Architectural Form (2)" %}
 
-- In Dimitra Stathopoulou thesis, she uses the Digital Fabrication tools and also MoCap to record the movement of dancers and with the data collected generate architectural forms parameterized. The two studies cases she developed were a skate bowl and a playscape, both using the movement of the dancer as primary source to their construction.
+- In [Dimitra Stathopoulou thesis](http://opus.bath.ac.uk/27813/1/UnivBath_MPhil_2011_D_Stathopoulou.pdf), she uses the Digital Fabrication tools and also MoCap to record the movement of dancers and with the data collected generate architectural forms parameterized. The two studies cases she developed were a skate bowl and a playscape, both using the movement of the dancer as primary source to their construction.
 
 {% include image.html url="/media/skatebowl.png" width="100%" description="Skate bowl parametrically conveived" %}
 
@@ -38,11 +38,8 @@ The examples shown below are all related to dance and architecture, but could ea
 
 
 
-
-
-
 ## Sources:
 
-To understand better the use of Digital Fabrication in Architecture, I am reading the book [_Digital Fabrication, Architectural and Material Technique_](http://atc.berkeley.edu/201/readings/Iwamoto_Digital_Fabrications.pdf), of Lisa Iwamoto, that explain in more detail the background of Digital Fabrciation Technologies and present us with some examples of architects that have explored those techniques.
+
 
 
