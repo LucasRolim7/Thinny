@@ -21,7 +21,7 @@ There are several techniques and methods in Motion Capture, but in this post I w
 
     To record a person using this method, a person needs to wear a series of receiver that track the location of the user in the space. The values obtained are absolute, and so are the rotations performed. However, it can be interfered by electromagnetic fields. In cases when the recording is performed in a concrete ground, a stage needs to be built on top of it because the metal contained in the floor can interfere in the data collection, that tends to be very noisy.  
     
-{% include image.html url="/media/magnetic_mocap.jpg" width="100%" description="How the Magnetic MoCap works" %}
+{% include image.html url="/media/gollum.gif" width="100%" description="How the Magnetic MoCap works" %}
 
 - **Mechanical:**
 
