@@ -22,7 +22,6 @@ For being such a extensive field of practice, parametric design allows the desig
 
 {% include image.html url="/media/parametric_facade3.jpg" width="100%" description="" %}
 
-{% include image.html url="/media/parametric_facade4.jpeg" width="100%" description="" %}
 
 
 - **Roofs:**
