@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parametric Objects"
-quote: "A precedent embalms a principle"
+quote: "What parametricism allows designers accomplish"
 image:
       url: /media/epcot_bnw.jpg
 video: false
